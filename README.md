@@ -1,21 +1,25 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 4`
 
-`SEMESTRE`
+`2021/1`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-- Obi-Wan Kenobi 
-- Anakin Skywalker
+- Bruno Castanheira Marquezine 
+- Gabriel Teixeira Viana
+- Ludmila Rangel da Silva Guizan Pinheiro
+- Marcelo Roland Bernardino
+- Milena Lara Ferreira
+- Paulo Vitor Rinco
 
 ## Professor
 
-- Mestre Yoda
+- Luiz Alberto Ferreira Gomes
 
 # Documentação
 
