@@ -14,7 +14,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 - Gabriel Teixeira Viana
 - Ludmila Rangel da Silva Guizan Pinheiro
 - Marcelo Roland Bernardino
-- Milena Lara Ferreira
+- Milena Lara Reis Ferreira
 - Paulo Vitor Rinco
 
 ## Professor
