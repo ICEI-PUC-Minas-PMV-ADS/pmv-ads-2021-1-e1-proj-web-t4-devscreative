@@ -47,7 +47,11 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
 
 De acordo com estudo realizado pelo Instituto Pet Brasil (IPB), órgão responsável pelo desenvolvimento do setor de produtos e serviços para animais de estimação (também conhecidos como "pets"), o Brasil tem uma população de 172,1 mil animais abandonados sob tutela de ONGs de proteção animal. Já o número apresentado pela OMS é bem mais alarmaente: 14 milhões de animais em abrigos, sendo que deste, 90% nunca encontrarão um lar.
 
+<<<<<<< HEAD
 Essas ONGs lidam diariamente com pedidos de ajuda para cuidar de animais que já tiveram famílias e de repente ficaram sozinhos por motivo de falecimento, mudança ou mesmo abandono pelos seus tutores. Com as consequências econômicas da pandemia de COVID-19 houve inclusive um agravemento deste quadro. Ainda segundo o levantamento do IPB, as ONGs de proteção se dividem entre: porte pequeno, com até 100 animais tutorados e representando 33% das instituições; porte médio, abrigando de 101 a 500 animais e representando 48% das instituições e grande porte, que abrigam mais de 500 animais e são 19% do total.
+=======
+Essas ONGs lidam diariamente com pedidos de ajuda para cuidar de animais que já tiveram famílias e se viram sozinhos por motivo de falecimento, mudança ou mesmo abandono pelos seus tutores. Com as consequências econômicas da pandemia de COVID-19 houve inclusive um agravemento deste quadro. Ainda segundo o levantamento do IPB, as ONGs de proteção se dividem entre: porte pequeno, com até 100 animais tutorados e representando 33% das instituições; porte médio, abrigando de 101 a 500 animais e representando 48% das instituições e grande porte, que abrigam mais de 500 animais e são 19% do total.
+>>>>>>> main
 
 Neste trabalho, iremos focar nas ONGs de pequeno porte, já estruturadas, e que precisam de aumentar sua presença digital para divulgar seu trabalho para mais pessoas, conseguindo assim ampliar o número de animais adotados e de contribuições financeiras ou de materiais para manutenção seus trabalhos.
 
