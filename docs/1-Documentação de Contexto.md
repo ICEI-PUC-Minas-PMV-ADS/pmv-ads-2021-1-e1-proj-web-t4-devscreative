@@ -23,8 +23,11 @@ O objetivo geral deste trabalho é o desenvolvimento de um portal gratuito onde 
 Aliado a isso, será desenvolvido também uma loja no site que irá disponibilizar para venda alguns produtos para os animais e com a renda dessas vendas, investir em ongs e processos que envolvam a habilitação e bons tratos dos pets, tais como vacinas, castração entre outros procedimentos veterinários.
 
 Como objetivos específicos podemos ressaltar:
+
 • Cadastros de animais, de maneira simples e objetiva (fotos + informações)
+
 • Cadastro de para usuários que desejam adotar, de forma consciente algum pet;
+
 • Página para venda de produtos pet. Lucro revertido em ações na área.
 
 ## Justificativa
