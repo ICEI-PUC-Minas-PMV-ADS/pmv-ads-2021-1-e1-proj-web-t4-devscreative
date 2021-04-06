@@ -26,12 +26,9 @@ Como objetivos específicos podemos ressaltar:
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Entendemos que as principais causas oriundas quanto às dificuldades de adoção de um mascote é a falta de informações básicas sobre o animal e a demora no processo de adoção consciente, tornando-se o processo de seleção dos candidatos algo muito moroso e desmotivador.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Levando isso em consideração, podemos chegar à conclusão que é necessário novos canais e meios que facilitem a adoção, acelerando o processo, diminuindo os gastos das ONGs, reduzindo a concentração de animais nas ruas e inserindo-os em um lar para receberem o devido cuidado e carinho que os pets precisam.
 
 ## Público-Alvo
 
