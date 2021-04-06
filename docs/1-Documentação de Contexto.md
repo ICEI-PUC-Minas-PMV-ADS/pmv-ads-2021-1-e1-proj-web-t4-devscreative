@@ -5,16 +5,10 @@ De acordo com estudo realizado pelo Instituto Pet Brasil (IPB), órgão respons�
 Essas ONGs lidam diariamente com pedidos de ajuda para cuidar de animais que já tiveram famílias e de repente ficaram sozinhos por motivo de falecimento, mudança ou mesmo abandono pelos seus tutores. Com as consequências econômicas da pandemia de COVID-19 houve inclusive um agravemento deste quadro. Ainda segundo o levantamento do IPB, as ONGs de proteção se dividem entre: porte pequeno, com até 100 animais tutorados e representando 33% das instituições; porte médio, abrigando de 101 a 500 animais e representando 48% das instituições e grande porte, que abrigam mais de 500 animais e são 19% do total.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+É visível o número crescente de casos de abandono e maus tratos a animais em território nacional, mesmo com leis protecionistas recentes. Tal problema se dá tanto por decisões precipitadas, falta de empatia e problemas de adaptação, econômicos e perda de interesse.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Portanto, amenizando tais dados, em parceria com ONG’s esse trabalho se encarregara de unificar informações de animais abandonados, ampliando sua divulgação digital e o numero de animais adotados.
 
 ## Objetivos
 
