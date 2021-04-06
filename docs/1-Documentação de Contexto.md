@@ -24,9 +24,9 @@ Aliado a isso, será desenvolvido também uma loja no site que irá disponibiliz
 
 Como objetivos específicos podemos ressaltar:
 
-• Cadastros de animais, de maneira simples e objetiva (fotos + informações)
+• Cadastros de animais, de maneira simples e objetiva (fotos + informações).
 
-• Cadastro de para usuários que desejam adotar, de forma consciente algum pet;
+• Cadastro de para usuários que desejam adotar, de forma consciente algum pet.
 
 • Página para venda de produtos pet. Lucro revertido em ações na área.
 
