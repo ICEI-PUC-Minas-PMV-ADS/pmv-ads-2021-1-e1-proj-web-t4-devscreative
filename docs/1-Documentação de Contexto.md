@@ -18,12 +18,14 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste trabalho é o desenvolvimento de um portal gratuito onde será possível realizar o cadastro de animais de forma intuitiva e que atenda às principais dúvidas na hora de adotar o pet ideal.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Aliado a isso, será desenvolvido também uma loja no site que irá disponibilizar para venda alguns produtos para os animais e com a renda dessas vendas, investir em ongs e processos que envolvam a habilitação e bons tratos dos pets, tais como vacinas, castração entre outros procedimentos veterinários.
+
+Como objetivos específicos podemos ressaltar:
+• Cadastros de animais, de maneira simples e objetiva (fotos + informações)
+• Cadastro de para usuários que desejam adotar, de forma consciente algum pet;
+• Página para venda de produtos pet. Lucro revertido em ações na área.
 
 ## Justificativa
 
