@@ -2,9 +2,8 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Considerando que a plataforma a ser desenvolvida neste projeto deve atender tanto aos adotantes potenciais (pessoas interessadas em adotar animais) qauanto aos voluntários das ONGs de proteçãoanimal,
+a definição dos problemas a serem tratados neste projeto foi feita através de duas abordagens. Primeiro, criamos um formulário que enviamos para diversas pessoas interessas em adoção. Segundo, utilizamos levantamento sobre perfil de voluntários apresentado no artigo "Caracterização do perfil de indivíduos que resgatam animais em situação de maus tratos" de Viviane Aguiar de Souza e Ana Paula Iglesias Santin.
 
 ## Personas
 
@@ -33,6 +32,7 @@ Motivações: Pelo fato de escolherem não ter filhos, ele e a esposa decidiram 
 Frustrações: Todo processo que envolve a adoção é muito moroso. Além da demora na análise de quem adota, o fato de o animal estar disponível, não necessariamente garate que a escolha renderá frutos, pois alguma outra pessoa pode estar mais a frente no processo de avaliação e ficar com o animal. Além disso, os sites mencionam muitas poucas referências quanto às características dos animais. Isso é um pouco frustrante, pois podemos perder a oportunidade de adção caso o pet fique com um porte muito grande. 
 
 Hobbies, história: Daniel sempre gostou de animais. Quando era membro de uma república, ele e seus amigos adotaram um cachorro de rua que virou o mascote da turma. Desde sua volta para BH, não teve mais a oportunidade de ter um animal de estimação. Foi quando conheceu Manu, sua atual esposa. Manu já têm um gato adotivo, e, como o casal gosta muito de viajar e não pretendem ter filhos, a ideia é aumentar a família de outra forma. Com a adoção de pets. A intenção deles, além de contribuir com a causa, é levar o ideal da adoção de animais para outras pessoas próximas.
+=======
 
 ## Histórias de Usuários
 
