@@ -9,10 +9,15 @@ a definição dos problemas a serem tratados neste projeto foi feita através de
 
 ### Tânia Evangelista
 Idade: 45
+
 Ocupação: Bióloga de formação, atua como pet sitter (pessoa que cuida de animais quando os tutores viajam ou trabalham fora o dia inteiro) e é voluntária em uma ONG de adoção de gatos.
+
 Aplicativos: Instagram, Facebook.
+
 Motivações: Amor aos animais, omissão do poder público quanto à situação dos animais de rua.
+
 Frustrações: Escassez de recursos financeiros para manter a ONG (gastos com veterinários sendo o mais grave), falta de comprometimento de adotantes que devolvem os animais, falta de espaço físico para abrigar mais animais.
+
 Hobbies, história: Tânia vem de uma família que cultiva um enorme carinho por animais de estimação, sendo que ela sempre teve vários. Ela entende muito sobre as necessidades dos animais, especialmente dos felinos.
 
 ## Histórias de Usuários
