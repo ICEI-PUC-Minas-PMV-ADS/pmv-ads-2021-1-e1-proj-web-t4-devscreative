@@ -1,13 +1,12 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
 Considerando que a plataforma a ser desenvolvida neste projeto deve atender tanto aos adotantes potenciais (pessoas interessadas em adotar animais) qauanto aos voluntários das ONGs de proteçãoanimal,
 a definição dos problemas a serem tratados neste projeto foi feita através de duas abordagens. Primeiro, criamos um formulário que enviamos para diversas pessoas interessas em adoção. Segundo, utilizamos levantamento sobre perfil de voluntários apresentado no artigo "Caracterização do perfil de indivíduos que resgatam animais em situação de maus tratos" de Viviane Aguiar de Souza e Ana Paula Iglesias Santin.
 
 ## Personas
 
 ### Tânia Evangelista
+
 Idade: 45
 
 Ocupação: Bióloga de formação, atua como pet sitter (pessoa que cuida de animais quando os tutores viajam ou trabalham fora o dia inteiro) e é voluntária em uma ONG de adoção de gatos.
