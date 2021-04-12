@@ -32,7 +32,6 @@ Motivações: Pelo fato de escolherem não ter filhos, ele e a esposa decidiram 
 Frustrações: Todo processo que envolve a adoção é muito moroso. Além da demora na análise de quem adota, o fato de o animal estar disponível, não necessariamente garate que a escolha renderá frutos, pois alguma outra pessoa pode estar mais a frente no processo de avaliação e ficar com o animal. Além disso, os sites mencionam muitas poucas referências quanto às características dos animais. Isso é um pouco frustrante, pois podemos perder a oportunidade de adção caso o pet fique com um porte muito grande. 
 
 Hobbies, história: Daniel sempre gostou de animais. Quando era membro de uma república, ele e seus amigos adotaram um cachorro de rua que virou o mascote da turma. Desde sua volta para BH, não teve mais a oportunidade de ter um animal de estimação. Foi quando conheceu Manu, sua atual esposa. Manu já têm um gato adotivo, e, como o casal gosta muito de viajar e não pretendem ter filhos, a ideia é aumentar a família de outra forma. Com a adoção de pets. A intenção deles, além de contribuir com a causa, é levar o ideal da adoção de animais para outras pessoas próximas.
-=======
 
 ## Histórias de Usuários
 
