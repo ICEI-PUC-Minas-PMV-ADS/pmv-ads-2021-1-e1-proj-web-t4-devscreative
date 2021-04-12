@@ -6,7 +6,7 @@
 
 `2021/1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Diante do grande abandono de animais, as ONGs ficaram sobrecarregada de serviços e animais disponíveis para adoção, então decidimos criar uma página na internet que ajudará no aumento da visibilidade das ONGs de pequeno porte, divulgando os animais de forma simples, com fotos e algumas informações, facilitando o processo das adoções. A página contará ainda com uma loja virtual, cujo lucro das vendas dos produtos será revertido em ações na área.
 
 ## Integrantes
 
