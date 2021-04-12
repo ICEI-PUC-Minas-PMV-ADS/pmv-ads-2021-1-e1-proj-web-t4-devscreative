@@ -17,7 +17,7 @@ Motivações: Amor aos animais, omissão do poder público quanto à situação 
 
 Frustrações: Escassez de recursos financeiros para manter a ONG (gastos com veterinários sendo o mais grave), falta de comprometimento de adotantes que devolvem os animais, falta de espaço físico para abrigar mais animais.
 
-Hobbies, história: Tânia vem de uma família que cultiva um enorme carinho por animais de estimação, sendo que ela sempre teve vários. Ela entende muito sobre as necessidades dos animais, especialmente dos felinos.
+Hobbies, história: Daniel sempre gostou de animais. Quando ainda morava em uma república, na época da faculdade, ele e seus amigos adotaram um cachorro de rua que virou o mascote da turma. Voltando para BH, não teve mais a oportunidade de ter um pet, até conhcer Manu, sua atual esposa. Manu já havia adotado um gato, e o casal, que não pretende ter filhos, gostaria de aumentar a família de outra maneira. Daí veio a ideia da adoção. Um casal consciente, que se engaja nos projetos das ONGs e vêem na adoção uma oportunidade de multiplicar e contribuir com a causa. 
 
 ## Histórias de Usuários
 
