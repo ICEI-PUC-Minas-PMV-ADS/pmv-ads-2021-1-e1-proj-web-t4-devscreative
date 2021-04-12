@@ -8,19 +8,31 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+### Tânia Evangelista
+Idade: 45
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Ocupação: Bióloga de formação, atua como pet sitter (pessoa que cuida de animais quando os tutores viajam ou trabalham fora o dia inteiro) e é voluntária em uma ONG de adoção de gatos.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Aplicativos: Instagram, Facebook.
+
+Motivações: Amor aos animais, omissão do poder público quanto à situação dos animais de rua.
+
+Frustrações: Escassez de recursos financeiros para manter a ONG (gastos com veterinários sendo o mais grave), falta de comprometimento de adotantes que devolvem os animais, falta de espaço físico para abrigar mais animais.
+
+Hobbies, história: Tânia vem de uma família que cultiva um enorme carinho por animais de estimação, sendo que ela sempre teve vários. Ela entende muito sobre as necessidades dos animais, especialmente dos felinos.
+
+### Daniel Abreu
+Idade: 30
+
+Ocupação: Designer Gráfico, professor substituto no Senai Cecoteg - Atua como produtor e revisor de uma revista local.
+
+Aplicativos: Behance, TikTok, Instagram, Facebook e LinkedIn.
+
+Motivações: Pelo fato de escolherem não ter filhos, ele e a esposa decidiram adotar um animal de estimação com o intuito de dar mais vida a casa do casal. Além disso, sua espojá já tinha um gato adotivo e gostariam de ter mais animais. 
+
+Frustrações: Todo processo que envolve a adoção é muito moroso. Além da demora na análise de quem adota, o fato de o animal estar disponível, não necessariamente garate que a escolha renderá frutos, pois alguma outra pessoa pode estar mais a frente no processo de avaliação e ficar com o animal. Além disso, os sites mencionam muitas poucas referências quanto às características dos animais. Isso é um pouco frustrante, pois podemos perder a oportunidade de adção caso o pet fique com um porte muito grande. 
+
+Hobbies, história: Tânia vem de uma família que cultiva um enorme carinho por animais de estimação, sendo que ela sempre teve vários. Ela entende muito sobre as necessidades dos animais, especialmente dos felinos.
 
 ## Histórias de Usuários
 
