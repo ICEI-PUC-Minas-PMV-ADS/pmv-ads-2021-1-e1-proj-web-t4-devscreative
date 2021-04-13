@@ -13,7 +13,7 @@ Diante do grande abandono de animais, as ONGs ficaram sobrecarregada de serviço
 - Bruno Castanheira Marquezine 
 - Gabriel Teixeira Viana
 - Ludmila Rangel da Silva Guizan Pinheiro
-- Marcelo Roland Bernardino
+- Marcelo Roland Bernardin
 - Milena Lara Reis Ferreira
 - Paulo Vitor Rinco
 
