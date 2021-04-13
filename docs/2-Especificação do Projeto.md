@@ -58,46 +58,33 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001| O site deve conter campos para cadastro de usuários | ALTA | 
+|RF-002| O site deve conter campos para cadastro de animais   | ALTA |
+|RF-003| O site deverá conter uma página para venda de produtos | ALTA |
+|RF-004| O site deverá conter um campo para cadastro de produtos, especificando com imagens, valor e descrição | ALTA |
+|RF-005| O site deve apresentar, para cada animal correspondete, imagens e descrição | MÉDIA |
+|RF-006| O site deve apresentar uma página de login para usuários já cadastrados | MÉDIA |
+|RF-007| O site deverá conter, na página inicial, um atalho para cadastro de novos usuários | MÉDIA |
+|RF-008| O site deverá conter uma interface padronizada para usuários com e sem cadastro | MÉDIA |
+|RF-009| O site deve apresentar, para cada persona, uma descrição correspondente as caracteristicas do entrevistado | MÉDIA |
+|RF-010| A página inicial do site deverá conter imagens e botões que direcione o usuário para a sessão de compras, adoção ou história das personas | MÉDIA |
+|RF-011| O site poderá ter a opção de compartilhar as publicações nas redes sociais através de link direto | BAIXA |
+|RF-012| O site permitirá usuários com cadastro fazerem avaliações sobre os produtos e comentários sobre os pets para adoção | BAIXA |
+|RF-013| O site deverá conter informações sobre a ONG de animais, explicando sua trajetória, objetivos e personagens envolvidos | BAIXA |
+|RF-013| No campo de cadastro de usuários, deverá ter um campo opcional para cadastro de cartão de crédito | BAIXA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- REQUISITOS FUNCIONAIS		
-ID	DESCRIÇÃO	PRIORIDADE
-1	O site deve apresentar, para cada persona, uma descrição correspondente as caracteristicas do entrevistado	MÉDIA
-2	O site deve conter campos para cadastro de usuários	ALTA
-3	O site deve conter campos para cadastro de animais	ALTA
-4	O site deve apresentar, para cada animal correspondete, imagens e descrição	MÉDIA
-5	O site deverá conter uma página para venda de produtos	ALTA
-6	O site deverá conter um campo para cadastro de produtos, especificando com imagens, valor e descrição	ALTA
-7	O site deve apresentar uma página de login para usuários já cadastrados	MÉDIA
-8	O site deverá conter, na página inicial, um atalho para cadastro de novos usuários	MÉDIA
-9	O site deverá conter uma interface padronizada para usuários com e sem cadastro	MÉDIA
-10	No campo de cadastro de usuários, deverá ter um campo opcional para cadastro de cartão de crédito	BAIXA
-11	A página inicial do site deverá conter imagens e botões que direcione o usuário para a sessão de compras, adoção ou história das personas	MÉDIA
-12	O site deverá conter informações sobre a ONG de animais, explicando sua trajetória, objetivos e personagens envolvidos	BAIXA
-13	O site permitirá usuários com cadastro fazerem avaliações sobre os produtos e comentários sobre os pets para adoção	BAIXA
-14	O site poderá ter a opção de compartilhar as publicações nas redes sociais através de link direto	BAIXA
-![image](https://user-images.githubusercontent.com/81266506/114632446-187f7b00-9c95-11eb-9f01-633f9e93c905.png)
-
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-001| O sistema deverá ser desenvolvido na linguagem Java Script | ALTA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  ALTA | 
+|RNF-003| O sistema deve utilizar a linguagem de marcação HTML |  ALTA |
+|RNF-004| O sistema deverá se comunicar com o banco SQL Server | ALTA |
+|RFN-005| O site deve ser compatível com os principais navegadores do mercado | MÉDIO |
+|RFN-006| O sistema deverá ter alta disponibilidade | MÉDIO |
+|RFN-007| O sistema deverá processar requisições em no máximo 5 segundos | BAIXA |
+|RFN-008| O sistema deve pesar no máximo 1000kb | BAIXA |
 
 ## Restrições
 
