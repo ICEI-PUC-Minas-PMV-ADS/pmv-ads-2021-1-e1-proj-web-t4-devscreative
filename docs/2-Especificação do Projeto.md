@@ -36,10 +36,32 @@ Hobbies, história: Daniel sempre gostou de animais. Quando era membro de uma re
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`       | QUERO/PRECISO ... `FUNCIONALIDADE`                 |PARA ... `MOTIVO/VALOR`                                                          |
+|---------------------------|----------------------------------------------------|---------------------------------------------------------------------------------|
+|Usuário do sistema			      |     Pré-cadastrar um novo animal                   |   divulgar o animal no portal.                                                  |
+|Administrador do sistema   |     Cadastrar uma nova ONG                         |   divulgar ONGs parceiras.                                                      |
+|Administrador do sistema   |     Cadastrar um novo espaço de lares provisórios  |   divulgar os lares provisórios.                                                |
+|Administrador do sistema   |     Cadastrar um novo produto para venda           |   ajudar as ONGs com os custos.                                                 |
+|Administrador do sistema   |     Cadastrar uma nova ação                        |   realizar ações de ajuda para as ONGs.                                         |
+|Usuário do sistema         |     Me cadastrar no portal                         |   ter acesso ao portal                                                          |
+|Usuário do sistema         |     Visualizar as ONGs cadastradas                 |   procurar ONGs em minha cidade                                                 |
+|Usuário do sistema         |     Visualizar os voluntários cadastrados.         |   ver dados das pessoas que estão participando voluntariamente                  |
+|Usuário do sistema         |     Visualizar os produtos em venda                |   fazer uma compra e ajudar.                                                    |
+|Usuário do sistema         |     Visualizar os lares provisórios cadastrados    |   ver dados dos lares que estão participando                                    |
+|Usuário do sistema         |     Visualizar as ações em andamento               |   participar e ajudar as ONGs                                                   |
+|Administrador do sistema   |     Excluir dados dos animais cadastrados          |   retirar os animais que já foram adotados                                      |
+|Administrador do sistema   |     Excluir dados das ONG cadastradas              |   a ONG que não for mais parceira                                               |
+|Administrador do sistema   |     Excluir dados dos voluntários                  |   voluntários que não ajudam mais                                               |
+|Administrador do sistema   |     Excluir dados dos produtos                     |   produtos que estão fora de linha ou esgotados                                 |
+|Administrador do sistema   |     Excluir dados das ações                        |   ações que já se encerraram.                                                   |
+|Administrador / Voluntário |     Modificar dados dos animais cadastrados        |   quando for cadastrado errado                                                  |
+|Administrador / Voluntário |     Modificar dados das ONG cadastradas            |   quando houver uma mudança nos dados ou tiver alguma informação errada         |
+|Administrador              |     Modificar dados dos voluntários                |   quando houver uma mudança nos dados ou tiver alguma informação errada         |
+|Administrador / Voluntário |     Modificar dados dos produtos                   |   quando houver uma mudança nos dados ou tiver alguma informação errada         |
+|Administrador / Voluntário |     Modificar dados das ações/doações              |   modificar dados das ações quando necessário                                   |
+|Administrador do sistema   |     Cadastrar/Alterar/Excluir permissões no sistema|   gerir as permissões do sistema                                                |
+|Voluntário / Aprovador     |     Aprovar animais pré-cadastrados                |    aprovar animais previamente cadastrados por usuários                         |
+|Usuário do sistema         |     Compartilhar dados dos animais 				            |	discutir com amigos e conhecidos temas de interesse                            |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
