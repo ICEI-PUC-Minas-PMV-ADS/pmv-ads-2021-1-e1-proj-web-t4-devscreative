@@ -71,7 +71,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-011| O site poderá ter a opção de compartilhar as publicações nas redes sociais através de link direto | BAIXA |
 |RF-012| O site permitirá usuários com cadastro fazerem avaliações sobre os produtos e comentários sobre os pets para adoção | BAIXA |
 |RF-013| O site deverá conter informações sobre a ONG de animais, explicando sua trajetória, objetivos e personagens envolvidos | BAIXA |
-|RF-013| No campo de cadastro de usuários, deverá ter um campo opcional para cadastro de cartão de crédito | BAIXA |
+|RF-014| No campo de cadastro de usuários, deverá ter um campo opcional para cadastro de cartão de crédito | BAIXA |
 
 
 
