@@ -56,10 +56,24 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+REQUISITOS FUNCIONAIS		
+ID	DESCRIÇÃO	PRIORIDADE
+1	O site deve apresentar, para cada persona, uma descrição correspondente as caracteristicas do entrevistado	MÉDIA
+2	O site deve conter campos para cadastro de usuários	ALTA
+3	O site deve conter campos para cadastro de animais	ALTA
+4	O site deve apresentar, para cada animal correspondete, imagens e descrição	MÉDIA
+5	O site deverá conter uma página para venda de produtos	ALTA
+6	O site deverá conter um campo para cadastro de produtos, especificando com imagens, valor e descrição	ALTA
+7	O site deve apresentar uma página de login para usuários já cadastrados	MÉDIA
+8	O site deverá conter, na página inicial, um atalho para cadastro de novos usuários	MÉDIA
+9	O site deverá conter uma interface padronizada para usuários com e sem cadastro	MÉDIA
+10	No campo de cadastro de usuários, deverá ter um campo opcional para cadastro de cartão de crédito	BAIXA
+11	A página inicial do site deverá conter imagens e botões que direcione o usuário para a sessão de compras, adoção ou história das personas	MÉDIA
+12	O site deverá conter informações sobre a ONG de animais, explicando sua trajetória, objetivos e personagens envolvidos	BAIXA
+13	O site permitirá usuários com cadastro fazerem avaliações sobre os produtos e comentários sobre os pets para adoção	BAIXA
+14	O site poderá ter a opção de compartilhar as publicações nas redes sociais através de link direto	BAIXA
+![image](https://user-images.githubusercontent.com/81266506/114791874-9dce6280-9d5d-11eb-908d-6258f1f9540f.png)
+
 
 
 ### Requisitos não Funcionais
