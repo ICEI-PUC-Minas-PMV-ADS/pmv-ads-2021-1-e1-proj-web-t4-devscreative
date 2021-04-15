@@ -70,22 +70,22 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| O site deve conter campos para cadastro de usuários | ALTA | 
-|RF-002| O site deve conter campos para cadastro de animais   | ALTA |
-|RF-003| O site deverá conter uma página para venda de produtos | ALTA |
-|RF-004| O site deverá conter um campo para cadastro de produtos, especificando com imagens, valor e descrição | ALTA |
-|RF-005| O site deve apresentar, para cada animal correspondete, imagens e descrição | MÉDIA |
-|RF-006| O site deve apresentar uma página de login para usuários já cadastrados | MÉDIA |
-|RF-007| O site deverá conter, na página inicial, um atalho para cadastro de novos usuários | MÉDIA |
-|RF-008| O site deverá conter uma interface padronizada para usuários com e sem cadastro | MÉDIA |
-|RF-009| O site deve apresentar, para cada persona, uma descrição correspondente as caracteristicas do entrevistado | MÉDIA |
-|RF-010| A página inicial do site deverá conter imagens e botões que direcione o usuário para a sessão de compras, adoção ou história das personas | MÉDIA |
-|RF-011| O site poderá ter a opção de compartilhar as publicações nas redes sociais através de link direto | BAIXA |
-|RF-012| O site permitirá usuários com cadastro fazerem avaliações sobre os produtos e comentários sobre os pets para adoção | BAIXA |
-|RF-013| O site deverá conter informações sobre a ONG de animais, explicando sua trajetória, objetivos e personagens envolvidos | BAIXA |
-|RF-014| No campo de cadastro de usuários, deverá ter um campo opcional para cadastro de cartão de crédito | BAIXA |
+|ID     | Descrição do Requisito  | Prioridade |
+|-------|-----------------------------------------|----|
+|RF-001 | O site deve conter campos para cadastro de usuários | ALTA | 
+|RF-002 | O site deve conter campos para cadastro de animais   | ALTA |
+|RF-003 | O site deverá conter uma página para venda de produtos | ALTA |
+|RF-004 | O site deverá conter um campo para cadastro de produtos, especificando com imagens, valor e descrição | ALTA |
+|RF-005 | O site deve apresentar, para cada animal correspondete, imagens e descrição | MÉDIA |
+|RF-006 | O site deve apresentar uma página de login para usuários já cadastrados | MÉDIA |
+|RF-007 | O site deverá conter, na página inicial, um atalho para cadastro de novos usuários | MÉDIA |
+|RF-008 | O site deverá conter uma interface padronizada para usuários com e sem cadastro | MÉDIA |
+|RF-009 | O site deve apresentar, para cada persona, uma descrição correspondente as caracteristicas do entrevistado | MÉDIA |
+|RF-010 | A página inicial do site deverá conter imagens e botões que direcione o usuário para a sessão de compras, adoção ou história das personas | MÉDIA |
+|RF-011 | O site poderá ter a opção de compartilhar as publicações nas redes sociais através de link direto | BAIXA |
+|RF-012 | O site permitirá usuários com cadastro fazerem avaliações sobre os produtos e comentários sobre os pets para adoção | BAIXA |
+|RF-013 | O site deverá conter informações sobre a ONG de animais, explicando sua trajetória, objetivos e personagens envolvidos | BAIXA |
+|RF-014 | No campo de cadastro de usuários, deverá ter um campo opcional para cadastro de cartão de crédito | BAIXA |
 
 
 ### Requisitos não Funcionais
