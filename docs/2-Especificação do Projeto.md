@@ -79,23 +79,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-001| O sistema deverá ser desenvolvido na linguagem Java Script | ALTA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  ALTA | 
+|RNF-003| O sistema deve utilizar a linguagem de marcação HTML |  ALTA |
+|RNF-004| O sistema deverá se comunicar com o banco SQL Server | ALTA |
+|RFN-005| O site deve ser compatível com os principais navegadores do mercado | MÉDIO |
+|RFN-006| O sistema deverá ter alta disponibilidade | MÉDIO |
+|RFN-007| O sistema deverá processar requisições em no máximo 5 segundos | BAIXA |
+|RFN-008| O sistema deve pesar no máximo 1000kb | BAIXA |
 
 ## Restrições
 
