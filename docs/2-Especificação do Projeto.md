@@ -88,7 +88,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-014| No campo de cadastro de usuários, deverá ter um campo opcional para cadastro de cartão de crédito | BAIXA |
 
 
-
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
