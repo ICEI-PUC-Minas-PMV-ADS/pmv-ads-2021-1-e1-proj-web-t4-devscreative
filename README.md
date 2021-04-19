@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# PLATAFORMA PARA ADOÇÃO DE ANIMAIS
 
 `Análise e Desenvolvimento de Sistemas`
 
