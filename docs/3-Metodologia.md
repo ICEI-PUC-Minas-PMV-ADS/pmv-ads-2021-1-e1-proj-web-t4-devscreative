@@ -41,10 +41,16 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 Apresente a divisão de papéis entre os membros do grupo.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+*Product Owner
+   *Milena Lara Reis Ferreira
+*Scrum Master
+   *Marcelo Roland Bernardino
+*Desenvolvedores
+   *Gabriel Teixeira Viana
+   *Bruno Castanheira Marquezine
+*Designers
+   *Ludmila Rangel da Silva Guizan Pinheiro
+   *Paulo Vitor Rinco
 
 ### Processo
 
