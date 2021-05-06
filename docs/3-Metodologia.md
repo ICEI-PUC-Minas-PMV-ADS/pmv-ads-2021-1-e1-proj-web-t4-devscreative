@@ -68,9 +68,13 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de diagramação
+|              Ambiente             |             Plataforma          |
+|-----------------------------------|---------------------------------|
+| Gerenciamento do Projeto          | GitHub                          |
+| Projeto de Interfaces e Wireframes| Adobe Photoshop                 |
+| Editor de Código                  | Visual Studio Code              |
+| Documentos de Apresentação        | Google Drive                    |
+
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
