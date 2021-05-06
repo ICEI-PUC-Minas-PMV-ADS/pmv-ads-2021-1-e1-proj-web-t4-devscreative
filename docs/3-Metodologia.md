@@ -74,7 +74,7 @@ As ferramentas empregadas no projeto são:
 | Projeto de Interfaces e Wireframes| Adobe Photoshop                 |
 | Editor de Código                  | Visual Studio Code              |
 | Documentos de Apresentação        | Google Drive                    |
-| Repositório de Codigo Fonte       | GitHub                          |
+| Repositório de Código Fonte       | GitHub                          |
 
 
 O editor de código foi escolhido porque ele possui uma integração com o
