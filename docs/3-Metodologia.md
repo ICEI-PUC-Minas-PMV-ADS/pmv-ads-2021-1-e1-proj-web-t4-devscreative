@@ -41,16 +41,6 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 Apresente a divisão de papéis entre os membros do grupo.
 
-*Product Owner
-   *Milena Lara Reis Ferreira
-*Scrum Master
-   *Marcelo Roland Bernardino
-*Desenvolvedores
-   *Gabriel Teixeira Viana
-   *Bruno Castanheira Marquezine
-*Designers
-   *Ludmila Rangel da Silva Guizan Pinheiro
-   *Paulo Vitor Rinco
 
 ### Processo
 
