@@ -43,6 +43,7 @@ Apresente a divisão de papéis entre os membros do grupo.
 
 - Product Owner
    - Milena Lara Reis Ferreira
+   - Luiz Alberto Ferreira Gomes
 - Scrum Master
    - Marcelo Roland Bernardino
 - Desenvolvedores
