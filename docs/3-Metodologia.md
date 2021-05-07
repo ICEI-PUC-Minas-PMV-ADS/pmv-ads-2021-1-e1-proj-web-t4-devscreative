@@ -50,7 +50,7 @@ Apresente a divisão de papéis entre os membros do grupo.
 - **Resources**: Esta lista mantém template de tarefas recorrentes com as o que cada pessoa deve fazer, utilizando o kanban como ferramenta.
 - **Backlog**: Recebe as tarefas a serem trabalhadas de cada etapa do projeto e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a essa lista.
 - **To do**: Está lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
-- **Doind**: Representa as tarefas que entao em processamento.
+- **In Progress**: Representa as tarefas que entao em processamento.
 - **Done**: Nesta lista são colocadas as tarefas que passaram pelos seus respectivos testes de qualidade e eficiência podendo ser entregue.
 
 ### Ferramentas
