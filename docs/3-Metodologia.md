@@ -62,7 +62,7 @@ As ferramentas empregadas no projeto são:
 | Gerenciamento do Projeto          | GitHub                          |
 | Projeto de Interfaces e Wireframes| Adobe Photoshop                 |
 | Editor de Código                  | Visual Studio Code              |
-| Documentos de Apresentação        | Google Drive                    |
+| Documentos de Apresentação        | Google Slides                    |
 | Repositório de Código Fonte       | GitHub                          |
 
 

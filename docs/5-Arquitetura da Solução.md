@@ -1,64 +1,38 @@
 # Arquitetura da Solução
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
-
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+Apresentaremos aqui a definição dos componentes do nosso site e nossa solução de hospedagem.
 
 ## Diagrama de componentes
 
-Diagrama que permite a modelagem física de um sistema, através da visão dos seus componentes e relacionamentos entre os mesmos.
+![Diagrama de Componentes](img/arquitetura.png)
+<center>Figura 01 - Arquitetura da Solução</center>
 
-Exemplo: 
-
-Os componentes que fazem parte da solução são apresentados na Figura XX.
-
-![Diagrama de Componentes](img/componentes.png)
-<center>Figura XX - Arquitetura da Solução</center>
+<br/>
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
    - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
-     - **Canais** - seções de notícias apresentadas 
-     - **Comentários** - registro de opiniões dos usuários sobre as notícias
-     - **Preferidas** - lista de notícias mantidas para leitura e acesso posterior
- - **News API** - plataforma que permite o acesso às notícias exibidas no site.
- - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
-
-> **Links Úteis**:
->
-> - [Whimsical](https://whimsical.com/)
-
-Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
-
-A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
-que o usuário entra na plataforma, ele é apresentado à tela inicial
-(Tela 1) onde ele é confrontado com as opões de editar seu perfil ou
-então visualizar sua galeria.
-
-Caso ele opte por seguir pelo primeiro caminho (Editar Perfil), ele é
-redirecionado para a tela de edição de perfil (Tela 2), onde pode
-atualizar seus dados cadastrais. Nessa tela, o usuário também pode
-escolher para editar sua foto de perfil. Ao selecionar essa opção, ele é
-redirecionado para a Tela 3, onde ele a imagem expandida do perfil do
-usuário é mostrado. Ao selecionar a opção para atualizar a imagem, uma
-nova janela abre pedindo para o usuário fazer o upload da nova foto.
-Assim que o processo termina um pop-up exibe o status para o usuário
-(Tela 4) e o usuário é redirecionado para a Tela 2.
-
-Caso o usuário opte seguir pelo segundo caminho (Visualizar Galeria) ele
-é redirecionado para a Tela 5 com todas as fotos que o usuário possui. O
-usuário pode clicar em um post qualquer para visualizar os detalhes do
-post (Tela 6). Nessa tela, ele pode então escolher editar o post, sendo
-redirecionado para a Tela 7. Ao editar as informações, o usuário pode
-escolher salvar ou deletar o post. Em ambos os casos o status é
-notificado para o usuário (Tela 8) e em seguida ele é redirecionado
-para a Tela 2.
-
-![Exemplo de UserFlow](img/userflow.jpg)
-
+     - **Cadastro de animais** - cadastro de animais disponíveis para adoção
+     - **Cadastro de ONGs** - cadastro de ONGs parceiras
+     - **Cadastro de usuários** - cadastro de pessoas interessadas em adotar animais
+     - **Produtos da loja** - itens disponíveis para venda
+ - **Hospedagem** - Nosso site será hospedado no servidor gratuito Heroku.
 
 ## Tecnologias Utilizadas
+
+Em nosso projeto, iremos utilizar as seguintes tecnologias:
+
+- **HTML 5** - A estrutura básica do site (texto, inserção de imagens, separação em containers) será feita em HTML.
+- **CSS 3** - A estilização do site será feita em CSS, com possível utilização de frameworks como Bootstrap.
+- **JavaScript** - Utilizaremos a linguagem JavaScript para inserir elementos de interação no site.
+- **Git** - Será utilizado para realização do controle de versão dos documentos do projeto.
+- **GitHub** - Será utilizado como repositório remoto do código-fonte e como ferramenta de gerenciamento de projeto.
+- **Photoshop** - Será utilizado na elaboração do Projeto de Interfaces e Wireframes e no tratamento das imagens que compõem o site.
+- **Visual Studio Code** - Editor de código.
+- **Google Slides** - Utilizado na elaboração de apresentações.
+- **Heroku** - Será utilizado para hospedagem do site.
+
 
 Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
 
