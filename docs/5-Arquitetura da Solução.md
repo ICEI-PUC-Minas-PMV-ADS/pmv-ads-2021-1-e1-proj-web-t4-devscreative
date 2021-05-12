@@ -41,7 +41,7 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+Heroku é uma plataforma em nuvem que permite que os desenvolvedores implantem e gerenciem aplicações. Nós a escolhemos por sua boa usabilidade e por ser totalmente gerenciada - assim não teremos preocupações com manutenção de servidores. Além disso, a plataforma oferece a opção de hospedagem grátis que é ideal para o nosso projeto que está sendo desenvolvido em ambiente escolar.
 
 > **Links Úteis**:
 >
