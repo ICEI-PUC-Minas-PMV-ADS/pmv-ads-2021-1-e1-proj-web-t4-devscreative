@@ -1,0 +1,105 @@
+
+:root{
+--azul: #11A8AA; 
+--laranja: #F58538; 
+--verde: #A6CE39; 
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+/* Cabeçalho */
+
+header {
+  background: rgb(206, 235, 235);
+  padding: 0 10px;
+  }
+
+.nav-menu {
+  display: block;
+  padding: 0.5rem 1rem;
+  font-weight: bold;
+  color: rgb(88, 88, 88);
+  text-decoration: none;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+.nav-menu:hover, .nav-menu:focus {
+  color: var(--laranja);
+}
+
+.btn-login, .btn-ajudar{
+  color: rgb(88, 88, 88);
+  background-color: var(--verde);
+  border-color: #198754;
+  font-weight: bold;
+}
+.btn-login, .btn-ajudar:hover {
+  color: #fff;
+  background-color: var(--laranja);
+  border-color: var(--laranja);
+}
+
+/*Main*/
+
+.background-home{
+    background: url('/img/pet5.jpg');
+    background-size: cover;
+    background-position: center;  
+    color:#eff2f3;  
+}
+
+.padding-bg{
+  padding: 80px 0;
+}
+
+/*Quem somos HOME*/
+
+#about-area {
+  background-color: #F9F9F9;
+
+  
+}
+
+
+.main-title {
+  color: #444;
+  margin: 0 0 65px 0;
+  font-size: 40px;
+  text-align: center;
+}
+
+
+.about-title {
+  font-size: 17px;
+  color: #444;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+
+/* Footer */
+
+footer {
+  margin-top: auto;
+  background-color: rgb(236, 245, 212);
+  text-decoration: none;
+  display: inline-block;
+  width: 100%;
+ }
+
+footer a img{
+  padding: 10px 0;
+}
+
+#footer-area {
+  text-align: center;
+  width: 100%;
+}
+
+.footer-box {
+  padding: 10px 0;
+  margin-bottom: 10px;
+}
