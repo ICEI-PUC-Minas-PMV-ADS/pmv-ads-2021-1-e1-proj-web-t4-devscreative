@@ -1,0 +1,11 @@
+html {
+	scroll-behavior: smooth;
+}
+
+#logo {
+    height: 100px;
+}
+
+#socialmedia {
+    height: 30px;
+}
