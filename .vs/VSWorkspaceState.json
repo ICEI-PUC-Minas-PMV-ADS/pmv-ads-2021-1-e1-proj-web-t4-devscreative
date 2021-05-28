@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\css"
   ],
+  "SelectedNode": "\\src\\contato.html",
   "PreviewInSolutionExplorer": false
 }
