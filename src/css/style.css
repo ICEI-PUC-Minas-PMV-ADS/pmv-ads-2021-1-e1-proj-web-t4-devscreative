@@ -198,3 +198,46 @@ footer a img{
   padding: 10px 0;
   margin-bottom: 10px;
 }
+
+/*Página Contato*/
+
+#formulario{
+  background-color: #eff2f3;
+  padding: 0 20px;
+}
+
+#formulario label{
+  font-weight: bold;
+  color: var(--azul);
+}
+
+.btn-formulario{
+  background-color: var(--laranja);
+  color: #FFF;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  border-radius: 30px;
+  border: 3px solid transparent;
+  transition: .5s;
+  text-decoration: none;
+}
+
+.btn-formulario:hover {
+  text-decoration: none;
+  color: #495057;
+  background-color: transparent;
+  border-color: var(--laranja); 
+}
+
+#outros-contatos i{
+  font-size: 30px;
+  color: var(--azul);
+}
+
+#newsletter{
+  background-color:#f7bc95b9 ;
+}
+
+.bg-form-news{
+  background-color: #d4ec94c2;
+}
