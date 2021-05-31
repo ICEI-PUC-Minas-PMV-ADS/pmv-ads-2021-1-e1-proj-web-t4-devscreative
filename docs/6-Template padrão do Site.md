@@ -8,4 +8,4 @@ A responsividade segue o padrão do Bootstrap
 
 **Tela 1 - Página Inicial**
 
-<img src="img/home.png" alt="Tela Inicial" style="zoom:45%;" />billa.com/blog/how-and-why-icons-improve-you-web-design/)
+<img src="img/home.png" alt="Tela Inicial" style="zoom:45%;" />
