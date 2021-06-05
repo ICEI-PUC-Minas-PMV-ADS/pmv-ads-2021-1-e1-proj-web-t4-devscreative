@@ -1,116 +1,125 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>CatDog Adoção</title>
-    <!-- Estilos -->
-    <link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
-    <link href="css/style.css" rel="stylesheet" type="text/css" />
-    <!-- Icones-->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css">
-    <!-- Scripts -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>CatDog Adoção</title>
+  <!-- Estilos -->
+  <link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
+  <link href="css/style.css" rel="stylesheet" type="text/css" />
+  <!-- Icones-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css">
+  <!-- Scripts -->
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
     crossorigin="anonymous"></script>
-      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-  </head>
-  <body>
-    <header>
-      <nav class="navbar navbar-expand-lg navbar-light">
-        <a class="navbar-brand" href="#"><img src="img/logo.png" alt="" width="70" ></a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-              <li class="nav-item">
-                  <a class="nav-menu" href="./index.html">Página Inicial</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-menu" href="#">Quem Somos</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-menu" href="#">Adoção</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-menu" href="#">Como ajudar?</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-menu" href="#">Lojinha</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-menu active" aria-current="page" href="./contato.html">Contato</a>
-              </li>
-            </ul>
-            <ul class="d-flex">
-              <button class="btn btn-cadastro" type="submit">Cadastre-se</button>
-              <button class="btn btn-login" type="submit">Login</button>
-            </ul>
-          </div>
-        </div>
-      </nav>
-    </header>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <a class="navbar-brand" href="#"><img src="img/logo.png" alt="" width="70"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-menu" href="./index.html">Página Inicial</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-menu" href="#">Quem Somos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-menu" href="#">Adoção</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-menu" href="#">Como ajudar?</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-menu" href="#">Lojinha</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-menu active" aria-current="page" href="./contato.html">Contato</a>
+          </li>
+        </ul>
+        <ul class="d-flex">
+          <button class="btn btn-cadastro" type="submit">Cadastre-se</button>
+          <button class="btn btn-login" type="submit">Login</button>
+        </ul>
+      </div>
+      </div>
+    </nav>
+  </header>
 
   <main>
     <div id="contato" class="container col-xxl-8 px-4 py-2">
       <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
         <div class="col-10 col-sm-8 col-lg-6">
-          <img src="/img/dog-contato.png" class="d-block mx-lg-auto img-fluid text-center" alt="Cachorro com headset" width="400">
+          <img src="img/dog-contato.png" class="d-block mx-lg-auto img-fluid text-center" alt="Cachorro com headset"
+            width="400">
         </div>
         <div class="col-lg-6 text-center">
           <h1 class="display-5 fw-bold lh-1 mb-3">Entre em contato!</h1>
-          <p class="lead">Aproveite este canal para registrar sugestões, elogios, reclamações ou 
-            solicitar esclarecimentos de dúvidas. Sua mensagem será direcionada para a CatDog. 
+          <p class="lead">Aproveite este canal para registrar sugestões, elogios, reclamações ou
+            solicitar esclarecimentos de dúvidas. Sua mensagem será direcionada para a CatDog.
             Não esqueça de informar seus dados para agilizar seu atendimento.</p>
-            <p class="lead">A CatDog recepciona a manifestação para atendê-lo e tem como prazo de retorno&nbsp;sete dias corridos.</p>
+          <p class="lead">A CatDog recepciona a manifestação para atendê-lo e tem como prazo de retorno&nbsp;sete dias
+            corridos.</p>
         </div>
       </div>
     </div>
 
     <section id="formulario">
       <div class="py-3">
-          <form>
-            <div class="form-group form-floating mb-3">
-              <div class="col-md-6 offset-md-3">
-                <label class="pb-2"> Nome</label>
-                <input type="text" name="nome" class="form-control" required="" >    
-              </div>
+        <form>
+          <div class="form-group form-floating mb-3">
+            <div class="col-md-6 offset-md-3">
+              <label class="pb-2"> Nome</label>
+              <input type="text" name="nome" class="form-control" required="">
             </div>
+          </div>
 
-            <div class="form-group form-floating mb-3">
-              <div class="col-md-6 offset-md-3">
-                <label class="pb-2"> Email</label>
-                <input type="email" name="email" class="form-control " placeholder="exemplo@exemplo.com.br" required="" >    
-              </div>
+          <div class="form-group form-floating mb-3">
+            <div class="col-md-6 offset-md-3">
+              <label class="pb-2"> Email</label>
+              <input type="email" name="email" class="form-control " placeholder="exemplo@exemplo.com.br" required="">
             </div>
+          </div>
 
-            <div class="form-group form-floating mb-3">
-              <div class="col-md-6 offset-md-3">
-                <label class="pb-2">Assunto</label>
-                <select  class="form-select" name="assunto" id="assunto">
-                  <option value="">Dúvidas</option>
-                  <option>Sugestões</option>
-                  <option>Elogios</option>
-                  <option>Reclamações</option>
-                </select>
-              </div>
+          <div class="form-group form-floating mb-3">
+            <div class="col-md-6 offset-md-3">
+              <label class="pb-2">Assunto</label>
+              <select class="form-select" name="assunto" id="assunto">
+                <option value="">Dúvidas</option>
+                <option>Sugestões</option>
+                <option>Elogios</option>
+                <option>Reclamações</option>
+              </select>
             </div>
+          </div>
 
-            <div class="form-group form-floating mb-3">
-              <div class="col-md-6 offset-md-3">
-                <label class="pb-2" for="textareamensagem">Digite sua mensagem:</label>
-                <textarea class="form-control" id="textareamensagem" rows="3" required=""></textarea>
-              </div>
+          <div class="form-group form-floating mb-3">
+            <div class="col-md-6 offset-md-3">
+              <label class="pb-2" for="textareamensagem">Digite sua mensagem:</label>
+              <textarea class="form-control" id="textareamensagem" rows="3" required=""></textarea>
             </div>
-            <br>
-            <div class="form-group">
-              <div class="col-md-6 offset-md-3">
-                <input type="submit" value="Enviar" class="btn btn-formulario" name="enviar">
-                <div class="form-check"> </div>
-              </div>
+          </div>
+          <br>
+          <div class="form-group">
+            <div class="col-md-6 offset-md-3">
+              <input type="submit" value="Enviar" class="btn btn-formulario" name="enviar">
+              <div class="form-check"> </div>
             </div>
-          </form>
+          </div>
+        </form>
       </div>
     </section>
 
@@ -119,10 +128,10 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-4">
-              <i class="fas fa-map-marker-alt"></i>              
+              <i class="fas fa-map-marker-alt"></i>
               <h4>Endereço</h4>
               <p>Av. Lorem ipsum dolor, 320 - Belo Horizonte-MG</p>
-            </div>   
+            </div>
             <div class="col-lg-4">
               <i class="far fa-envelope"></i>
               <h4>Mande um email</h4>
@@ -132,9 +141,9 @@
               <i class="fab fa-instagram"></i>
               <h4>Instagram</h4>
               <p>@catdog-bh</p>
+            </div>
           </div>
         </div>
-      </div>
     </section>
 
     <section id="newsletter">
@@ -142,7 +151,8 @@
         <div class="row align-items-center g-lg-5 py-2">
           <div class="col-lg-7 text-center text-lg-start">
             <h2 class="fw-bold lh-1 mb-3">Newsletter</h2>
-            <p class="col-lg-10 fs-4">Assine a nossa newsletter para ficar por dentro dos eventos e dos novos pets disponíveis para adoção.</p>
+            <p class="col-lg-10 fs-4">Assine a nossa newsletter para ficar por dentro dos eventos e dos novos pets
+              disponíveis para adoção.</p>
           </div>
           <div class="col-md-10 mx-auto col-lg-5">
             <form class="p-4 p-md-5 rounded-3 bg-form-news">
@@ -151,7 +161,7 @@
                 <label for="floatingInput">Nome</label>
               </div>
               <div class="form-floating mb-3">
-                <input type="email" class="form-control" id="floatingInput" >
+                <input type="email" class="form-control" id="floatingInput">
                 <label for="floatingInput">Email</label>
               </div>
               <button class="w-100 btn btn-lg btn-formulario" type="submit">Enviar</button>
@@ -165,24 +175,25 @@
   <footer>
     <div id="footer-area">
       <div class="container-fluid">
-          <div class="row">
-            <div class="col-md-3">
-              <a><img src="img/logo.png" class:"nav-item nav-menu" alt="" width="40"></a>
-            </div>
-            <div class="col-md-3 footer-box">
-              <a class="nav-item nav-menu" href="#">Site map</a>
-            </div>
-            <div class="col-md-3 footer-box">
-              <a class="nav-item nav-menu" href="./contato.html">Contato</a>
-            </div>
-            <div class="col-md-3 footer-box">
-              <a class="nav-item nav-menu" href="#">Redes sociais</a>
-            </div>
+        <div class="row">
+          <div class="col-md-3">
+            <a><img src="img/logo.png" class:"nav-item nav-menu" alt="" width="40"></a>
           </div>
+          <div class="col-md-3 footer-box">
+            <a class="nav-item nav-menu" href="#">Site map</a>
+          </div>
+          <div class="col-md-3 footer-box">
+            <a class="nav-item nav-menu" href="./contato.html">Contato</a>
+          </div>
+          <div class="col-md-3 footer-box">
+            <a class="nav-item nav-menu" href="#">Redes sociais</a>
+          </div>
+        </div>
       </div>
     </div>
   </footer>
 
   <script src="js/script.js"></script>
-  </body>
+</body>
+
 </html>
