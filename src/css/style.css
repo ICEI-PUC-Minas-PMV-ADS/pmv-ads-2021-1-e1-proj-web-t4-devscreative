@@ -241,3 +241,47 @@ footer a img{
 .bg-form-news{
   background-color: #d4ec94c2;
 }
+
+
+/* Testes Milena */
+
+.carousel-produtos {
+  object-fit: cover;
+  height: 100px;
+}
+
+.nav-produtos {
+  border: #f7bc95b9;
+}
+
+.imagem-carousel {
+  object-fit: cover;
+  height: 200px;
+}
+
+.imagem-promocao {
+  object-fit: cover;
+  height: 200px;
+}
+
+.promocao-txt-titulo {
+  text-transform: uppercase;
+}
+
+.img-banner {
+  object-fit: cover;
+  height: 500px;
+  width: 300px;
+  object-position: 75% 0;
+}
+
+.card {
+  width: 10rem;
+  border-style: none;
+}
+
+.img-card {
+  object-fit: cover;
+  height: 100px;
+  width: 120px;
+}
