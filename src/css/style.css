@@ -165,7 +165,7 @@ header {
 /*Formas de ajudar*/
 
 .background-tipo-ajuda{
-  background: url('/img/pet6.jpg');
+  background-image: url(/img/pet6.jpg);
   background-size: cover;
   background-position: center;  
   color:#eff2f3;  
@@ -266,13 +266,20 @@ footer a img{
 
 .promocao-txt-titulo {
   text-transform: uppercase;
+  font-size: 50px;
+  color: var(--azul);
+}
+
+.promocao{
+  border-top: 2px  solid var(--laranja);
+  border-bottom: 2px  solid var(--laranja);
 }
 
 .img-banner {
   object-fit: cover;
   height: 500px;
   width: 300px;
-  object-position: 75% 0;
+  object-position: 95% 0;
 }
 
 .card {
@@ -284,4 +291,34 @@ footer a img{
   object-fit: cover;
   height: 100px;
   width: 120px;
+}
+
+.banner-destaque{
+  background-size: cover;
+}
+
+.categorias-itens{
+  background-color: #d4ec94c2;
+}
+
+#categorias a{
+  text-decoration: none;
+  color: black;
+}
+
+.list-group-item:hover{
+  z-index: 1;
+  text-decoration: none;
+  background-color: var(--laranja);
+  font-weight: bold;
+}
+
+.btn-loja {
+  background-color: var(--verde);
+  border-color: var(--verde);
+  transition: .5s;
+}
+.btn-loja:hover {
+  background-color: var(--laranja);
+  border-color: var(--laranja);
 }
