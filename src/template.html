@@ -8,14 +8,13 @@
     <!-- Estilos -->
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
     <link href="css/style.css" rel="stylesheet" type="text/css" />
-    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity=""
-        crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity=""
-        crossorigin="anonymous">
     <!-- Scripts -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"
         integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
         integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
         crossorigin="anonymous"></script>
@@ -59,36 +58,34 @@
         </nav>
     </header>
 
+    <main>
+        <h1>Hello world</h1>
+    </main>
 
-    <body>
-        <div id="logreg-forms">
-            <form class="form-signin">
-                <form action="/signup/" class="form-signup">
-                    <div class="social-login">
-                        <button class="btn facebook-btn social-btn" type="button"><span><i
-                                    class="fab fa-facebook-f"></i> Entre com o Facebook</span> </button>
-                        <button class="btn google-btn social-btn" type="button"><span><i
-                                    class="fab fa-google-plus-g"></i> Entre com o Google+</span> </button>
+    <footer>
+        <div id="footer-area">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-3">
+                        <a><img src="img/logo.png" class="nav-item nav-menu" alt="" width="80px"></a>
                     </div>
-
-                    <p style="text-align:center">OU</p>
-
-                    <input type="text" id="user-name" class="form-control" placeholder="Nome Completo" required=""
-                        autofocus="">
-                    <input type="email" id="user-email" class="form-control" placeholder="Endereço de Email" required
-                        autofocus="">
-                    <input type="password" id="user-pass" class="form-control" placeholder="Senha" required
-                        autofocus="">
-                    <input type="password" id="user-repeatpass" class="form-control" placeholder="Repita a senha"
-                        required autofocus="">
-
-                    <button class="btn btn-primary btn-block" type="submit"><i class="fas fa-user-plus"></i>
-                        Cadastrar</button>
-                    <a href="login.html">
-                        <id="cancel_signup"><i class="fas fa-angle-left"></i> Voltar
-                    </a>
-                    <br>
-                </form>
-            </form>
+                    <div class="col-md-3 footer-box">
+                        <a class="nav-item nav-menu" href="#">Site map</a>
+                    </div>
+                    <div class="col-md-3 footer-box">
+                        <a class="nav-item nav-menu" href="./contato.html">Contato</a>
+                    </div>
+                    <div class="col-md-3 footer-box">
+                        <a class="nav-item nav-menu" href="#">Redes sociais</a>
+                    </div>
+                </div>
+            </div>
         </div>
-    </body>
+    </footer>
+
+
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>
