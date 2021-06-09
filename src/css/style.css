@@ -36,7 +36,7 @@ header {
   color: var(--laranja);
 }
 
-.btn-login, .btn-ajudar{
+.btn-login, .btn-ajudar, .btn-salvar {
   background-color: var(--laranja);
   color: #FFF;
   text-transform: uppercase;
@@ -270,7 +270,7 @@ footer a img{
   color: var(--azul);
 }
 
-.promocao{
+.promocao {
   border-top: 2px  solid var(--laranja);
   border-bottom: 2px  solid var(--laranja);
 }
@@ -376,6 +376,10 @@ footer a img{
 #logreg-form .lines{
   width:200px;
   border:1px solid red;
+}
+
+.dados-cadastrais {
+border-bottom: 2px  solid var(--laranja);
 }
 
 
