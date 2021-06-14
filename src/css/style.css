@@ -499,7 +499,13 @@ border-bottom: 2px  solid var(--laranja);
   padding-top: 10px;
 }
 
-.text-form-adocao{
+.titulo-form-cadastro{
+  color:var(--laranja);
+  padding-top: 10px;
+}
+
+
+.text-form-adocao, .text-form-cadastro {
   color:var(--azul);
   font-weight: bold;
 }
