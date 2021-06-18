@@ -231,6 +231,76 @@
                   <option value="2">Gato</option>
                 </select>
               </div>
+              <div>
+                Anexe uma imagem do animal: <input id="inputImage" type="file">
+              </div>
+              <div>
+                
+                <button id="btnSalvarImagens">Salvar</button> 
+                <button id="btnExibirImagens">Exibir</button>
+              </div>
+
+              <div id="tela"></div>
+
+              <script>
+                function salvarImagens() {
+                  let inputImg = document.getElementById('inputImage');
+
+                  if (inputImg.files && inputImg.files[0]) {
+                    var readerImg = new FileReader();
+
+                    readerImg.onload = function (tereza) {
+                      let imagens = [];
+
+                      // Tenta carregar o array de imagens do Local Storage
+                      let img = img.getItem('img');
+                      if (img) {
+                        imagens = JSON.parse(img);
+                      }
+
+                      // Insere a imagem no array
+                      let novaImagem = { "imagem": tereza.target.result };
+                      imagens.push(novaImagem);
+
+                      // Salvar o array de imagens no localStorage
+                      img.setItem('img', JSON.stringify(imagens));
+                    };
+
+                    readerImg.readAsDataURL(inputImg.files[0]);
+                  }
+
+                }
+
+                function exibirImagens() {
+                  let tela = document.getElementById('tela');
+                  let textoHTML = '';
+
+                  // Fazer alguma coisa montando o textoHTML
+
+                  // Tenta carregar o array de imagens do Local Storage
+                  let imagens = [];
+                  let img = img.getItem('img');
+                  if (img) {
+                    imagens = JSON.parse(img);
+                  };
+
+                  for (i = 0; i < imagens.length; i++) {
+                    textoHTML += `<div class="box-imagem"><img src="${imagens[i].imagem}"></div>`;
+                  }
+
+                  // Mostrar o código na div tela
+                  tela.innerHTML = textoHTML
+
+                }
+
+                botaoSalvar = document.getElementById('btnSalvarImagens');
+                botaoSalvar.addEventListener('click', salvarImagens);
+
+                botaoExibir = document.getElementById('btnExibirImagens');
+                botaoExibir.addEventListener('click', exibirImagens);
+
+
+              </script>
             </div>
             <button type="submit" class="btn btn-salvar col-md-3 mt-3">Enviar</button>
           </form>
