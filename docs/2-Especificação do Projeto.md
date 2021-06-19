@@ -78,7 +78,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004 | O site deve apresentar, para cada animal correspondete, imagens e descrição | MÉDIA |
 |RF-005 | O site deve apresentar uma página de login para usuários já cadastrados | MÉDIA |
 |RF-006 | O site deverá conter, na página inicial, um atalho para cadastro de novos usuários | MÉDIA |
-|RF-007 | O site deverá conter uma interface padronizada para usuários com e sem cadastro | MÉDIA |
+|RF-007 | O site deverá conter uma interface diferenciada para usuários com e sem cadastro | MÉDIA |
 |RF-008 | A página inicial do site deverá conter botões que direcione o usuário para a sessão de compras, adoção ou contato | MÉDIA |
 |RF-009 | O site deverá conter informações sobre a ONG de animais, explicando sua trajetória, objetivos e personagens envolvidos | BAIXA |
 |RF-010 | No campo de cadastro de usuários, deverá ter um campo opcional para cadastro de cartão de crédito | BAIXA |
