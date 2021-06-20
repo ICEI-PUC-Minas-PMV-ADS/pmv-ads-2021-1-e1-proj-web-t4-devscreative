@@ -1,4 +1,5 @@
 // Cadastro
+
 function cadastrar(){
     var username = document.getElementById('username');
     var useremail = document.getElementById('useremail');

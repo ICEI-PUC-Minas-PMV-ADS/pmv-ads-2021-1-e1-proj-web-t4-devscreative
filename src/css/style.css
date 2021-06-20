@@ -16,6 +16,7 @@ html,body{
   padding: 0;
   padding: 0;
   overflow-x: hidden; 
+  text-decoration: none;
 }
 
 /* Cabeçalho */
@@ -81,11 +82,32 @@ header {
   margin-right: 10px;
 }
 
-.btn-cadastro:hover {
+.btn-cadastro:hover, .btn-voltar:hover {
   text-decoration: none;
   color: #495057;
   background-color: transparent;
   border-color: var(--azul);
+}
+
+.btn-voltar{
+  background-color: var(--azul);
+  color: #FFF;
+  text-transform: uppercase;
+  padding: 5px 10px;
+  border-radius: 30px;
+  border: 3px solid transparent;
+  transition: .5s;
+  text-decoration: none;
+}
+
+.btn-voltar a{
+  text-decoration: none;
+  color: #FFF;
+}
+
+.btn-voltar a:hover{
+  text-decoration: none;
+  color: #495057;
 }
 
 /*Carousel*/
@@ -173,7 +195,7 @@ header {
 /*Formas de ajudar*/
 
 .background-tipo-ajuda{
-  background-image: url(/img/pet6.jpg);
+  background-image: url(img/pet6.jpg);
   background-size: cover;
   background-position: center;  
   color:#eff2f3;  
@@ -335,7 +357,7 @@ footer a img{
 #logreg-forms{
   width:412px;
   margin:80px auto;
-  background-color:#f3f3f3;
+  background-color:#d4ec94ab;
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   transition: all 0.3s cubic-bezier(.25,.8,.25,1);
 }
@@ -351,16 +373,6 @@ footer a img{
   height: auto;
   padding: 10px;
   font-size: 16px;
-}
-#logreg-forms .form-control:focus { z-index: 2; }
-#logreg-forms .form-signin input[type="email"] {
-  margin-bottom: -1px;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-}
-#logreg-forms .form-signin input[type="password"] {
-  border-top-left-radius: 0;
-  border-top-right-radius: 0;
 }
 
 #logreg-forms .social-login{
@@ -378,10 +390,10 @@ footer a img{
 #logreg-forms a{
   display: block;
   padding-top:10px;
-  color:lightseagreen;
+  color:var(--azul);
 }
 
-#logreg-form .lines{
+#logreg-forms .lines{
   width:200px;
   border:1px solid red;
 }
@@ -406,6 +418,11 @@ border-bottom: 2px  solid var(--laranja);
 .form-signup .social-login{
   width:210px !important;
   margin: 0 auto;
+}
+
+.titulo-login{
+  color:var(--azul);
+  padding: 10px;  
 }
 
 /* Outros*/ 
@@ -439,7 +456,7 @@ border-bottom: 2px  solid var(--laranja);
   }
 
   #logreg-forms  .google-btn:after{
-      content:'Google+';
+      content:'Google';
   }
   
 } 
@@ -508,4 +525,8 @@ border-bottom: 2px  solid var(--laranja);
 .text-form-adocao, .text-form-cadastro {
   color:var(--azul);
   font-weight: bold;
+}
+
+.bg-car {
+  background-color: var(--azul);
 }

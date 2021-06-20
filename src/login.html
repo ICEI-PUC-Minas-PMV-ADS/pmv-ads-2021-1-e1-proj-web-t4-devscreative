@@ -43,8 +43,8 @@
           </li>
         </ul>
         <ul class="d-flex">
-          <button class="btn btn-cadastro" type="submit">Cadastre-se</button>
-          <button class="btn btn-login" type="submit">Login</button>
+          <button class="btn-cadastro" type="submit">Cadastre-se</button>
+          <button class="btn-login" type="submit">Login</button>
         </ul>
       </div>
       </div>
@@ -53,22 +53,22 @@
   <main>
     <div id="logreg-forms">
       <form class="form-signin">
-        <h1 class="h3 mb-3 font-weight-normal" style="text-align: center"> Acesse sua Conta</h1>
-        <div class="social-login">
-          <button class="btn facebook-btn social-btn" type="button"><span><i class="fab fa-facebook-f"></i> Entre com o
-              Facebook</span> </button>
-          <button class="btn google-btn social-btn" type="button"><span><i class="fab fa-google-plus-g"></i> Entre com o
-              Google+</span> </button>
-        </div>
-        <p style="text-align:center"> OU </p>
+        <h1 class="display-6 fw-bold lh-1 mb-3 titulo-login" style="text-align: center"> Acesse sua Conta</h1>
         <input type="email" id="inputEmail" class="form-control" placeholder="Endereço de Email" required=""
           autofocus="">
         <input type="password" id="inputPassword" class="form-control" placeholder="Senha" required="">
 
-        <button class="btn btn-success btn-block" type="submit"><i class="fas fa-sign-in-alt"></i> Entrar</button>
+        <button class="btn-login" type="submit"><i class="fas fa-sign-in-alt"></i> Entrar</button>
         <a href="#" id="forgot_pswd">Esqueceu a senha?</a>
         <hr>
-        <a href="cadastro.html"><button class="btn btn-primary btn-block" type="submit" id="btn-signup"><i
+        <div class="social-login">
+          <button class="btn facebook-btn social-btn" type="button"><span><i class="fab fa-facebook-f"></i> Entre com o
+              Facebook</span> </button>
+          <button class="btn google-btn social-btn" type="button"><span><i class="fab fa-google"></i> Entre com o
+              Google</span> </button>
+        </div>
+        <hr>
+        <a href="cadastro.html"><button class="btn-cadastro" type="submit" id="btn-signup"><i
               class="fas fa-user-plus"></i> Criar nova conta</button></a>
       </form>
     </div>
