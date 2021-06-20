@@ -19,6 +19,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
         integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
         crossorigin="anonymous"></script>
+    <script src="js/script.js" type="text/javascript"></script>
 </head>
 
 <body>
@@ -73,23 +74,24 @@
 
                     <p style="text-align:center">OU</p>
 
-                    <input type="text" id="user-name" class="form-control" placeholder="Nome Completo" required=""
+                    <input type="text" id="username" class="form-control" placeholder="Nome Completo" required=""
+                        autofocus="">                   
+                    <input type="email" id="useremail" class="form-control" placeholder="Endereço de Email" required
                         autofocus="">
-                    <input type="email" id="user-email" class="form-control" placeholder="Endereço de Email" required
+                    <input type="password" id="userpass" class="form-control" placeholder="Senha" required
                         autofocus="">
-                    <input type="password" id="user-pass" class="form-control" placeholder="Senha" required
-                        autofocus="">
-                    <input type="password" id="user-repeatpass" class="form-control" placeholder="Repita a senha"
+                    <input type="password" id="userrepeatpass" class="form-control" placeholder="Repita a senha"
                         required autofocus="">
 
-                    <button class="btn btn-primary btn-block" type="submit"><i class="fas fa-user-plus"></i>
-                        Cadastrar</button>
+                    
                     <a href="login.html">
                         <id="cancel_signup"><i class="fas fa-angle-left"></i> Voltar
                     </a>
                     <br>
                 </form>
             </form>
+            <button class="btn btn-primary btn-block" type="button" onclick="cadastrar()"><i class="fas fa-user-plus"></i>
+                Cadastrar</button>
         </div>
     </main>
     <footer>
