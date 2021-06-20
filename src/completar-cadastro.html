@@ -8,6 +8,7 @@
     <!-- Estilos -->
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
     <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <script src="js/teste.js" type="text/javascript"></script>
 
 </head>
 
@@ -58,35 +59,35 @@
                         <div class="mb-3">
                             <label for="exampleInputEmail1"
                                 class="form-label text-form-cadastro text-form-cadastro">Nome</label>
-                            <input type="text" class="form-control">
+                            <input id="username" type="text" class="form-control">
                         </div>
                         <div class="mb-3">
                             <label for="exampleInputEmail1" class="form-label text-form-cadastro">Sobrenome</label>
-                            <input type="text" class="form-control">
+                            <input id="lastname" type="text" class="form-control">
                         </div>
                         <div class="mb-3">
                             <label for="exampleInputEmail1" class="form-label text-form-cadastro">Email</label>
-                            <input type="email" class="form-control" id="exampleInputEmail1"
+                            <input id="useremail" type="email" class="form-control" id="exampleInputEmail1"
                                 aria-describedby="emailHelp">
                         </div>
                         <div class="mb-3">
                             <label for="exampleInputEmail1" class="form-label text-form-cadastro">Endereço</label>
-                            <input type="text" class="form-control">
+                            <input id="endress" type="text" class="form-control">
                         </div>
                         <div class="row">
                             <div class="mb-3 col-md-6">
                                 <label for="exampleInputEmail1" class="form-label text-form-cadastro">Número</label>
-                                <input type="text" class="form-control">
+                                <input id="number" type="text" class="form-control">
                             </div>
                             <div class="mb-3 col-md-6">
                                 <label for="exampleInputEmail1"
                                     class="form-label text-form-cadastro">Complemento</label>
-                                <input type="text" class="form-control">
+                                <input id="complement" type="text" class="form-control">
                             </div>
                         </div>
                         <div class="mb-3 col-md-6">
                             <label for="exampleInputEmail1" class="form-label text-form-cadastro">CEP</label>
-                            <input type="text" class="form-control" placeholder="_____-___">
+                            <input id="cep" type="text" class="form-control" placeholder="_____-___">
                         </div>
                         <div class="row">
                             <div class="mb-3 col-md-4">
@@ -163,9 +164,9 @@
                                 </select>
                             </div>
                         </div>
-                        
                     </form>
-                    <button type="button" onclick="cadastrar()" class="btn btn-salvar col-md-3 mt-3">Enviar</button>
+                    <button type="button" onclick="cadastrarjs()" class="btn btn-salvar col-md-3 mt-3">Enviar</button>
+
                 </div>
             </div>
         </section>
@@ -201,7 +202,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
         integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
         crossorigin="anonymous"></script>
-    <script src="js/script.js"></script>
+    <script src="js/teste.js"></script>
 </body>
 
 </html>
