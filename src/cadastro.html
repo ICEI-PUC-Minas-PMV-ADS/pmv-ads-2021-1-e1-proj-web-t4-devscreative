@@ -13,12 +13,7 @@
         crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity=""
         crossorigin="anonymous">
-    <!-- Scripts -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"
-        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
-        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
-        crossorigin="anonymous"></script>
+
 </head>
 
 <body>
@@ -51,8 +46,8 @@
                     </li>
                 </ul>
                 <ul class="d-flex">
-                    <button class="btn btn-cadastro" type="submit">Cadastre-se</button>
-                    <button class="btn btn-login" type="submit">Login</button>
+                    <button onclick="window.location.href = './cadastro.html'" class="btn btn-cadastro" type="submit">Cadastre-se</button>
+                    <button onclick="window.location.href = './login.html'" class="btn btn-login" type="submit">Login</button>
                 </ul>
             </div>
             </div>
@@ -62,34 +57,22 @@
         <div id="logreg-forms">
             <form class="form-signin">
                 <form action="/signup/" class="form-signup">
-                    <div class="social-login">
-                        <button class="btn facebook-btn social-btn" type="button"><span><i
-                                    class="fab fa-facebook-f"></i>
-                                Entre com o Facebook</span> </button>
-                        <button class="btn google-btn social-btn" type="button"><span><i
-                                    class="fab fa-google-plus-g"></i>
-                                Entre com o Google+</span> </button>
-                    </div>
-
-                    <p style="text-align:center">OU</p>
-
-                    <input type="text" id="user-name" class="form-control" placeholder="Nome Completo" required=""
+                    <h1 class="display-6 fw-bold lh-1 mb-3 titulo-login" style="text-align: center"> Cadastro</h1>
+                    <input type="text" id="username" class="form-control mb-2" placeholder="Nome Completo" required=""
+                        autofocus="">                   
+                    <input type="email" id="useremail" class="form-control mb-2" placeholder="Endereço de Email" required
                         autofocus="">
-                    <input type="email" id="user-email" class="form-control" placeholder="Endereço de Email" required
+                    <input type="password" id="userpass" class="form-control mb-2" placeholder="Senha" required
                         autofocus="">
-                    <input type="password" id="user-pass" class="form-control" placeholder="Senha" required
-                        autofocus="">
-                    <input type="password" id="user-repeatpass" class="form-control" placeholder="Repita a senha"
-                        required autofocus="">
-
-                    <button class="btn btn-primary btn-block" type="submit"><i class="fas fa-user-plus"></i>
-                        Cadastrar</button>
+                    <input type="password" id="userrepeatpass" class="form-control mb-2" placeholder="Repita a senha"
+                        required autofocus="">                    
                     <a href="login.html">
                         <id="cancel_signup"><i class="fas fa-angle-left"></i> Voltar
                     </a>
-                    <br>
                 </form>
             </form>
+            <button class="btn-salvar mb-4" type="button" onclick="cadastrar()"><i class="fas fa-user-plus"></i>
+                Cadastrar</button> <br>
         </div>
     </main>
     <footer>
@@ -97,7 +80,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-3">
-                        <a><img src="img/logo.png" class="nav-item nav-menu" alt="" width="50"></a>
+                        <a><img src="img/logo.png" class="nav-item nav-menu" alt="" width="80px"></a>
                     </div>
                     <div class="col-md-3 footer-box">
                         <a class="nav-item nav-menu" href="#">Site map</a>
@@ -113,6 +96,13 @@
         </div>
     </footer>
 
+    <!-- Scripts -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+    <script src="js/script.js" type="text/javascript"></script>
     <script src="js/script.js"></script>
 
 </body>

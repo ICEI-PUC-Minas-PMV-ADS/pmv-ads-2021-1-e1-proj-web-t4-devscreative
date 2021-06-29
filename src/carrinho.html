@@ -41,8 +41,8 @@
                     </li>
                 </ul>
                 <ul class="d-flex">
-                    <button class="btn btn-cadastro" type="submit">Cadastre-se</button>
-                    <button class="btn btn-login" type="submit">Login</button>
+                    <button onclick="window.location.href = './cadastro.html'" class="btn btn-cadastro" type="submit">Cadastre-se</button>
+                    <button onclick="window.location.href = './login.html'" class="btn btn-login" type="submit">Login</button>
                 </ul>
             </div>
             </div>
@@ -53,89 +53,90 @@
         <div class="row g-5 justify-content-center my-1">
             <div class="col-md-5 col-lg-4 order-md-last">
                 <h4 class="d-flex justify-content-between align-items-center mb-3">
-                    <span class="text-primary">Your cart</span>
-                    <span class="badge bg-primary rounded-pill">3</span>
+                    <span class="text-form-cadastro">Seu carrinho</span>
+                    <span class="badge bg-car rounded-pill">3</span>
                 </h4>
                 <ul class="list-group mb-3">
                     <li class="list-group-item d-flex justify-content-between lh-sm">
                         <div>
-                            <h6 class="my-0">Product name</h6>
-                            <small class="text-muted">Brief description</small>
+                            <h6 class="my-0">Osso de borracha</h6>
+                            <small class="text-muted">Ossinho de borracha vermelho</small>
                         </div>
-                        <span class="text-muted">$12</span>
+                        <span class="text-muted">R$ 14,30</span>
                     </li>
                     <li class="list-group-item d-flex justify-content-between lh-sm">
                         <div>
-                            <h6 class="my-0">Second product</h6>
-                            <small class="text-muted">Brief description</small>
+                            <h6 class="my-0">Vasilha para ração</h6>
+                            <small class="text-muted">Vasilha para ração azul</small>
                         </div>
-                        <span class="text-muted">$8</span>
+                        <span class="text-muted">R$ 11,60</span>
                     </li>
                     <li class="list-group-item d-flex justify-content-between lh-sm">
                         <div>
-                            <h6 class="my-0">Third item</h6>
-                            <small class="text-muted">Brief description</small>
+                            <h6 class="my-0">Guia e peitoral</h6>
+                            <small class="text-muted">Kit com Guia e peitoral estampado</small>
                         </div>
-                        <span class="text-muted">$5</span>
+                        <span class="text-muted">R$ 59,90</span>
                     </li>
                     <li class="list-group-item d-flex justify-content-between bg-light">
                         <div class="text-success">
-                            <h6 class="my-0">Promo code</h6>
-                            <small>EXAMPLECODE</small>
+                            <h6 class="my-0">Código promocional</h6>
+                            <small>PROMO5</small>
                         </div>
-                        <span class="text-success">−$5</span>
+                        <span class="text-success">− R$ 5,00</span>
                     </li>
                     <li class="list-group-item d-flex justify-content-between">
-                        <span>Total (USD)</span>
-                        <strong>$20</strong>
+                        <span>Total (R$)</span>
+                        <strong>R$ 80,80</strong>
                     </li>
                 </ul>
 
                 <form class="card p-2">
                     <div class="input-group">
-                        <input type="text" class="form-control" placeholder="Promo code">
-                        <button type="submit" class="btn btn-secondary">Redeem</button>
+                        <input type="text" class="form-control" placeholder="Código promocional">
+                        <button type="submit" class="btn btn-secondary">Resgatar</button>
                     </div>
                 </form>
             </div>
             <div class="col-md-7 col-lg-6">
-                <form class="needs-validation" novalidate>
+                <form >
                     <h2 class="display-6 fw-bold lh-1 mb-4 titulo-form-cadastro">Endereço de entrega</h2>
                     <div class="mb-3">
                         <label for="exampleInputEmail1"
-                            class="form-label text-form-cadastro text-form-cadastro">Nome</label>
-                        <input type="text" class="form-control">
+                            class="form-label text-form-cadastro">Nome</label>
+                        <input type="text" class="form-control" required="required">
                     </div>
                     <div class="mb-3">
                         <label for="exampleInputEmail1" class="form-label text-form-cadastro">Sobrenome</label>
-                        <input type="text" class="form-control">
+                        <input type="text" class="form-control" required="required">
                     </div>
                     <div class="mb-3">
                         <label for="exampleInputEmail1" class="form-label text-form-cadastro">Email</label>
-                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" required="required">
                     </div>
                     <div class="mb-3">
                         <label for="exampleInputEmail1" class="form-label text-form-cadastro">Endereço</label>
-                        <input type="text" class="form-control">
+                        <input type="text" class="form-control" required="required">
                     </div>
                     <div class="row">
                         <div class="mb-3 col-md-6">
                             <label for="exampleInputEmail1" class="form-label text-form-cadastro">Número</label>
-                            <input type="text" class="form-control">
+                            <input type="text" class="form-control" required="required">
                         </div>
                         <div class="mb-3 col-md-6">
                             <label for="exampleInputEmail1" class="form-label text-form-cadastro">Complemento</label>
-                            <input type="text" class="form-control">
+                            <input type="text" class="form-control" required="required">
                         </div>
                     </div>
                     <div class="mb-3 col-md-6">
                         <label for="exampleInputEmail1" class="form-label text-form-cadastro">CEP</label>
-                        <input type="text" class="form-control" placeholder="_____-___">
+                        <input type="text" class="form-control" placeholder="_____-___" required="required">
                     </div>
                     <div class="row">
                         <div class="mb-3 col-md-4">
-                            <select class="form-select" aria-label="Default select example">
-                                <option selected>Estado</option>
+                            <label for="exampleInputEmail1" class="form-label text-form-cadastro">Estado</label>
+                            <select class="form-select" aria-label="Default select example" required="required">
+                                <option selected></option>
                                 <option value="1">Acre (AC)
                                 </option>
                                 <option value="2">Alagoas (AL)
@@ -193,46 +194,35 @@
                             </select>
                         </div>
                         <div class="mb-3 col-md-8">
-                            <select class="form-select" aria-label="Default select example">
-                                <option selected>Município</option>
-                                <option value="1">Município 1</option>
-                                <option value="2">Município 2</option>
-                                <option value="3">Município 3</option>
-                                <option value="4">Município 4</option>
-                                <option value="5">Município 5</option>
-                                <option value="6">Município 6</option>
-                                <option value="7">Município 7</option>
-                                <option value="8">Município 8</option>
-                                <option value="9">Município 9</option>
-                            </select>
+                            <label for="exampleInputEmail1" class="form-label text-form-cadastro">Cidade</label>
+                            <input type="text" class="form-control" required="required">
                         </div>
                     </div>
 
                     <div class="form-check">
-                        <input type="checkbox" class="form-check-input" id="same-address">
-                        <label class="form-check-label" for="same-address">O endereço de entrega é o mesmo do endereço
-                            de cobrança
-                            address</label>
+                        <input type="checkbox" class="form-check-input" id="same-address" required="required">
+                        <label class="form-check-label" for="same-address">O endereço de cobrança é o mesmo do endereço
+                            de entrega.  </label>
                     </div>
 
                     <div class="form-check">
                         <input type="checkbox" class="form-check-input" id="save-info">
-                        <label class="form-check-label" for="save-info">Guarda informação para próxima compra</label>
+                        <label class="form-check-label" for="save-info">Guardar informações para próxima compra.</label>
                     </div>
 
                     <hr class="my-4">
 
-                    <h4 class="mb-3">Payment</h4>
+                    <h4 class="display-6 fw-bold lh-1 mb-4 titulo-form-cadastro">Forma de pagamento</h4>
 
                     <div class="my-3">
                         <div class="form-check">
                             <input id="credit" name="paymentMethod" type="radio" class="form-check-input" checked
                                 required>
-                            <label class="form-check-label" for="credit">Credit card</label>
+                            <label class="form-check-label" for="credit">Cartão de crédito</label>
                         </div>
                         <div class="form-check">
                             <input id="debit" name="paymentMethod" type="radio" class="form-check-input" required>
-                            <label class="form-check-label" for="debit">Debit card</label>
+                            <label class="form-check-label" for="debit">Cartão de débito</label>
                         </div>
                         <div class="form-check">
                             <input id="paypal" name="paymentMethod" type="radio" class="form-check-input" required>
@@ -242,42 +232,39 @@
 
                     <div class="row gy-3">
                         <div class="col-md-6">
-                            <label for="cc-name" class="form-label">Name on card</label>
+                            <label for="cc-name" class="form-label text-form-cadastro">Nome impresso no cartão</label>
                             <input type="text" class="form-control" id="cc-name" placeholder="" required>
-                            <small class="text-muted">Full name as displayed on card</small>
+                            <small class="text-muted">Nome completo conforme exibido no cartão</small>
                             <div class="invalid-feedback">
-                                Name on card is required
+                                Nome no cartão é obrigatório
                             </div>
                         </div>
 
                         <div class="col-md-6">
-                            <label for="cc-number" class="form-label">Credit card number</label>
+                            <label for="cc-number" class="form-label text-form-cadastro">Número do cartão</label>
                             <input type="text" class="form-control" id="cc-number" placeholder="" required>
                             <div class="invalid-feedback">
-                                Credit card number is required
+                                O número do cartão de crédito é obrigatório.
                             </div>
                         </div>
 
                         <div class="col-md-3">
-                            <label for="cc-expiration" class="form-label">Expiration</label>
+                            <label for="cc-expiration" class="form-label text-form-cadastro">Vencimento</label>
                             <input type="text" class="form-control" id="cc-expiration" placeholder="" required>
                             <div class="invalid-feedback">
-                                Expiration date required
+                                Data de expiração necessária.
                             </div>
                         </div>
-
                         <div class="col-md-3">
-                            <label for="cc-cvv" class="form-label">CVV</label>
+                            <label for="cc-cvv" class="form-label text-form-cadastro">CVV</label>
                             <input type="text" class="form-control" id="cc-cvv" placeholder="" required>
                             <div class="invalid-feedback">
-                                Security code required
+                                Código de segurança necessário.
                             </div>
                         </div>
                     </div>
-
                     <hr class="my-4">
-
-                    <button class="w-100 btn btn-primary btn-lg" type="submit">Continue to checkout</button>
+                    <button class="w-100 btn btn-salvar btn-lg mb-4" type="submit">Finalizar a compra</button>
                 </form>
             </div>
         </div>

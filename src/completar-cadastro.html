@@ -58,40 +58,41 @@
                         <div class="mb-3">
                             <label for="exampleInputEmail1"
                                 class="form-label text-form-cadastro text-form-cadastro">Nome</label>
-                            <input type="text" class="form-control">
+                            <input id="nome" type="text" class="form-control">
                         </div>
                         <div class="mb-3">
                             <label for="exampleInputEmail1" class="form-label text-form-cadastro">Sobrenome</label>
-                            <input type="text" class="form-control">
+                            <input id="sobrenome" type="text" class="form-control">
                         </div>
                         <div class="mb-3">
                             <label for="exampleInputEmail1" class="form-label text-form-cadastro">Email</label>
-                            <input type="email" class="form-control" id="exampleInputEmail1"
+                            <input id="email" type="email" class="form-control" id="exampleInputEmail1"
                                 aria-describedby="emailHelp">
                         </div>
                         <div class="mb-3">
                             <label for="exampleInputEmail1" class="form-label text-form-cadastro">Endereço</label>
-                            <input type="text" class="form-control">
+                            <input id="endereco" type="text" class="form-control">
                         </div>
                         <div class="row">
                             <div class="mb-3 col-md-6">
                                 <label for="exampleInputEmail1" class="form-label text-form-cadastro">Número</label>
-                                <input type="text" class="form-control">
+                                <input id="numero" type="text" class="form-control">
                             </div>
                             <div class="mb-3 col-md-6">
                                 <label for="exampleInputEmail1"
                                     class="form-label text-form-cadastro">Complemento</label>
-                                <input type="text" class="form-control">
+                                <input id="complemento" type="text" class="form-control">
                             </div>
                         </div>
                         <div class="mb-3 col-md-6">
                             <label for="exampleInputEmail1" class="form-label text-form-cadastro">CEP</label>
-                            <input type="text" class="form-control" placeholder="_____-___">
+                            <input id="cep" type="text" class="form-control" placeholder="_____-___">
                         </div>
                         <div class="row">
                             <div class="mb-3 col-md-4">
-                                <select class="form-select" aria-label="Default select example">
-                                    <option selected>Estado</option>
+                                <label for="exampleInputEmail1" class="form-label text-form-cadastro">Estado</label>
+                                <select id="estado" class="form-select" aria-label="Default select example">
+                                    <option selected></option>
                                     <option value="1">Acre (AC)
                                     </option>
                                     <option value="2">Alagoas (AL)
@@ -149,21 +150,12 @@
                                 </select>
                             </div>
                             <div class="mb-3 col-md-8">
-                                <select class="form-select" aria-label="Default select example">
-                                    <option selected>Município</option>
-                                    <option value="1">Município 1</option>
-                                    <option value="2">Município 2</option>
-                                    <option value="3">Município 3</option>
-                                    <option value="4">Município 4</option>
-                                    <option value="5">Município 5</option>
-                                    <option value="6">Município 6</option>
-                                    <option value="7">Município 7</option>
-                                    <option value="8">Município 8</option>
-                                    <option value="9">Município 9</option>
-                                </select>
+                                <label for="exampleInputEmail1" class="form-label text-form-cadastro">Cidade</label>
+                                <input id="cidade" type="text" class="form-control">
                             </div>
                         </div>
-                        <button type="submit" class="btn btn-salvar col-md-3 mt-3">Enviar</button>
+                        <button type="submit" class="btn btn-voltar col-md-3 mt-3"><a href='login.html'>Voltar</a></button>
+                        <button type="submit" class="btn btn-salvar col-md-3 mt-3" onclick="cadastrar()">Enviar</button>
                     </form>
                 </div>
             </div>
