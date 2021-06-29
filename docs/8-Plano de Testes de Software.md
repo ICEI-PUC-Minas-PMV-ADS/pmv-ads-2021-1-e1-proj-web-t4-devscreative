@@ -20,9 +20,10 @@ CT-09 – Validar interface do site com usuário logado e deslogado.<br>
 CT-10 – Validar botões contato, compras e adoção na tela inicial<br><br>
 
 
- # Estratégia de testes<br><br>
+# Estratégia de testes<br>
  
  A estratégia de testes a ser executada será a seguinte, os testes serão executados de forma manual, seguindo testes funcionais da aplicação, será coletado as evidencias dos testes para analise dos resultados e report dos bugs encontrados, assim que identificados pela equipe de qualidade, os resultados dos testes que falharam serão encaminhados para o time de desenvolvimento para resolução
  
- 
- 
+# Casos de testes<br>
+
+Os seguintes cenarios foram escritos e se encontram disponiveis para acessar no seguinte documento <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>
