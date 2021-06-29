@@ -26,4 +26,4 @@ CT-10 – Validar botões contato, compras e adoção na tela inicial<br><br>
  
 # Casos de testes<br>
 
-Os seguintes cenarios foram escritos e se encontram disponiveis para acessar no seguinte documento <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>
+Os seguintes cenarios foram escritos e se encontram disponiveis para acessar no seguinte documento <a href="Plano_de_testes.docx"> Plano de testes</a></span>
