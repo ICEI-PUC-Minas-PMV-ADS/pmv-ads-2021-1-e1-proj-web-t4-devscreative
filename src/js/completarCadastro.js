@@ -28,3 +28,12 @@ const guardarDados = (() => {
 });
 
 btnEnviar.addEventListener("click", guardarDados);
+
+
+const btnCadastrar = document.getElementById("btn-cadastrar");
+
+const redirecionar = () => {
+    window.location.href = "./completar-cadastro.html";
+}
+
+btnCadastrar.addEventListener("click", redirecionar);
