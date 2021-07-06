@@ -39,11 +39,12 @@ Apresente a divisão de papéis entre os membros do grupo.
 - Scrum Master
    - Marcelo Roland Bernardino
 - Desenvolvedores
+   - Ludmila Rangel da Silva Guizan Pinheiro
+   - Milena Lara Reis Ferreira
    - Gabriel Teixeira Viana
    - Bruno Castanheira Marquezine
-- Designers
+- Designer
    - Ludmila Rangel da Silva Guizan Pinheiro
-   - Paulo Vitor Rinco
 
 
 ### Processo
