@@ -8,15 +8,6 @@
 
 Diante do grande abandono de animais, as ONGs ficaram sobrecarregada de serviços e animais disponíveis para adoção, então decidimos criar uma página na internet que ajudará no aumento da visibilidade das ONGs de pequeno porte, divulgando os animais de forma simples, com fotos e algumas informações, facilitando o processo das adoções. A página contará ainda com uma loja virtual, cujo lucro das vendas dos produtos será revertido em ações na área.
 
-## Integrantes
-
-- Bruno Castanheira Marquezine 
-- Gabriel Teixeira Viana
-- Ludmila Rangel da Silva Guizan Pinheiro
-- Marcelo Roland Bernardino
-- Milena Lara Reis Ferreira
-- Paulo Vitor Rinco
-
 ## Professor
 
 - Luiz Alberto Ferreira Gomes
@@ -39,10 +30,3 @@ Diante do grande abandono de animais, as ONGs ficaram sobrecarregada de serviço
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
 
-# Código
-
-<li><a href="src/README.md"> Código Fonte</a></li>
-
-# Apresentação
-
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
